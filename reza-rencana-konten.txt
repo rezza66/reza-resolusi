@@ -2,7 +2,9 @@ RENCANA KONTEN REZA
 - Javascript
   * ES6
   * Frameworks Javascript
-    > Angular
-    > React
+  * Vue
+  * React
 - PHP Frameworks
-  > Laravel
+  * Laravel
+- Struktur Data Dasar
+- Python
